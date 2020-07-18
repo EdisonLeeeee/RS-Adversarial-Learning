@@ -127,8 +127,7 @@
 <a class="toc" id ="4"></a>
 # Resource
 
-+ Awesome Graph Adversarial Learning, [:octocat:Link](https://github.com/gitgiter/Graph-Adversarial-Learning)
-+ Awesome Graph Attack and Defense Papers, [:octocat:Link](https://github.com/ChandlerBang/awesome-graph-attack-papers)
-+ Graph Adversarial Learning Literature, [:octocat:Link](https://github.com/safe-graph/graph-adversarial-learning-literature)
-+ A Complete List of All (arXiv) Adversarial Example Papers, [🌐Link](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
-
++ **Awesome Graph Adversarial Learning** [:octocat:Link](https://github.com/gitgiter/Graph-Adversarial-Learning)
++ **Awesome Graph Attack and Defense Papers** [:octocat:Link](https://github.com/ChandlerBang/awesome-graph-attack-papers)
++ **Graph Adversarial Learning Literature** [:octocat:Link](https://github.com/safe-graph/graph-adversarial-learning-literature)
++ **A Complete List of All (arXiv) Adversarial Example Papers** [🌐Link](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
