@@ -117,7 +117,7 @@
 
 # Survey
 
-+ **Adversarial Machine Learning in Recommender Systems: State of the art and Challenges**, *Arxiv2020*, [📝Paper]((https://arxiv.org/abs/2005.10322))
++ **Adversarial Machine Learning in Recommender Systems: State of the art and Challenges**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2005.10322)
 + **A Survey of Adversarial Learning on Graphs**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2003.05730)
 + **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2003.00653)
 + **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**, *Arxiv2019*, [📝Paper](https://arxiv.org/abs/1909.08072)
