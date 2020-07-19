@@ -30,12 +30,15 @@
 ## 2020
 + **Data Poisoning Attacks on Neighborhood-based Recommender Systems**, *ETT*, [📝Paper](https://arxiv.org/abs/1912.04109)
 + **Attacking Black-box Recommendations via Copying Cross-domain User Profiles**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2005.08147)
-+ **Attacking Black-box Recommendations via Copying Cross-domain User Profiles**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2005.08147)
 + **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2006.07934)
 + **Adversarial Attacks on Linear Contextual Bandits**, *Arxiv*, [📝Paper](https://arxiv.org/pdf/2002.03839)
 + **Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2006.01888), [:octocat:Code](https://github.com/liuzrcc/AIP)
 + **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**, *WWW*, [📝Paper](https://arxiv.org/abs/2002.08025)
 + **TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**, *Dependable and Secure Machine Learning (DSML)*, [📝Paper](http://sisinflab.poliba.it/publications/2020/DMM20/PID6442119.pdf), [:octocat:Code](https://github.com/sisinflab/TAaMR)
++ **Adversarial Attacks on Time Series**, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, [📝Paper](https://ieeexplore.ieee.org/abstract/document/9063523)
++ **Attacking Recommender Systems with Augmented User Profiles**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2005.08164)
++ **Practical Data Poisoning Attack against Next-Item Recommendation**, *WWW*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3379992)
++ **PoisonRec: An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems**, *ICDE*, [📝Paper](https://ieeexplore.ieee.org/abstract/document/9101655)
 
 
 
@@ -44,6 +47,9 @@
 ## 2019
 + **Adversarial Attacks on an Oblivious Recommender**, *RecSys*, [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3347031)
 + **Targeted Poisoning Attacks on Social Recommender Systems**, *IEEE Global Communications Conference (GLOBECOM)*, [📝Paper](https://ieeexplore.ieee.org/document/9013539)
++ **Data Poisoning Attacks on Graph Convolutional Matrix Completion**，*International Conference on Algorithms and Architectures for Parallel Processing*,  [📝Paper](https://link.springer.com/chapter/10.1007/978-3-030-38961-1_38)
++ **Data Poisoning Attacks on Stochastic Bandits**, *ICML*,  [📝Paper](https://arxiv.org/abs/1905.06494)
++ **Data Poisoning Attacks on Cross-domain Recommendation**, *CIKM*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3357384.3358116)
 
 
 
@@ -63,14 +69,12 @@
 ## 2016
 + **Data Poisoning Attacks on Factorization-Based Collaborative Filtering**, *NIPS*, [📝Paper](https://arxiv.org/abs/1608.08182), [:octocat:Code](https://github.com/fuying-wang/Data-poisoning-attacks-on-factorization-based-collaborative-filtering)
 + **Segment-Focused Shilling Attacks against Recommendation Algorithms in Binary Ratings-based Recommender Systems**, *International Journal of Hybrid Information Technology*, [📝Paper](https://www.semanticscholar.org/paper/Segment-Focused-Shilling-Attacks-against-Algorithms-Zhang/5c7e96dcaf253f37904f91fdb6fdd6f486dba134)
-+ **Shilling attack detection in collaborative filtering recommender system by PCA detection and perturbation**, *International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR)*, [📝Paper](https://ieeexplore.ieee.org/document/7731644)
 + **Shilling attack models in recommender system**, *International Conference on Inventive Computation Technologies (ICICT)*, [📝Paper](https://ieeexplore.ieee.org/document/7824865)
 
 
 <a class="toc" id ="2"></a>
 
 # Defense
-
 
 <a class="toc" id ="2-1"></a>
 
@@ -81,6 +85,7 @@
 + **Adversarial Learning to Compare: Self-Attentive Prospective Customer Recommendation in Location based Social Networks**, *WSDM*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371841)
 + **Certifiable Robustness to Discrete Adversarial Perturbations for Factorization Machines**, *SIGIR*, [📝Paper](http://jiyang3.web.engr.illinois.edu/files/fm-rt.pdf)
 + **Directional Adversarial Training for Recommender Systems**, *ECAI*, [📝Paper](http://ecai2020.eu/papers/300_paper.pdf)
++ **Shilling Attack Detection Scheme in Collaborative Filtering Recommendation System Based on Recurrent Neural Network**, *Future of Information and Communication Conference*, [📝Paper](https://link.springer.com/chapter/10.1007/978-3-030-39445-5_46)
 
 <a class="toc" id ="2-2"></a>
 
@@ -90,6 +95,8 @@
 + **Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation**, *SIGIR*, [📝Paper](http://web.cs.wpi.edu/~kmlee/pubs/tran19sigir.pdf), [:octocat:Code](https://github.com/thanhdtran/MASR)
 + **Adversarial tensor factorization for context-aware recommendation**, *RecSys*, [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3346987), [:octocat:Code]
 + **Adversarial Training-Based Mean Bayesian Personalized Ranking for Recommender System**, *IEEE Access*, [📝Paper](https://ieeexplore.ieee.org/document/8946325)
++ **Securing the Deep Fraud Detector in Large-Scale E-Commerce Platform via Adversarial Machine Learning Approach**，*WWW*, [📝Paper](https://www.ntu.edu.sg/home/boan/papers/WWW19.pdf)
++ **Shilling Attack Detection in Recommender System Using PCA and SVM**, *Emerging technologies in data mining and information security*, [📝Paper]https://link.springer.com/chapter/10.1007/978-981-13-1498-8_55)
 
 
 
@@ -101,6 +108,7 @@
 + **Adversarial Sampling and Training for Semi-Supervised Information Retrieval**, *WWW*, [📝Paper](https://arxiv.org/abs/1506.05752)
 + **Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks**, *IEEE Transactions on Multimedia*, [📝Paper](https://ieeexplore.ieee.org/document/8576563)
 + **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning**, *WSDM*, [📝Paper](https://arxiv.org/abs/1911.09872)
++ **An Obfuscated Attack Detection Approach for Collaborative Recommender Systems**, *Journal of computing and information technology*,  [📝Paper](https://hrcak.srce.hr/203982)
 
 <a class="toc" id ="2-4"></a>
 
@@ -112,6 +120,9 @@
 
 ## 2016
 + **Discovering shilling groups in a real e-commerce platform**, *Online Information Review*, [📝Paper](https://www.emerald.com/insight/content/doi/10.1108/OIR-03-2015-0073/full/html)
++ **Shilling attack detection in collaborative filtering recommender system by PCA detection and perturbation**, *International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR)*, [📝Paper](https://ieeexplore.ieee.org/document/7731644)
++ **Re-scale AdaBoost for attack detection in collaborative filtering recommender systems**, *KBS*, [[📝Paper](https://www.sciencedirect.com/science/article/pii/S0950705116000861)
++ **SVM-TIA a shilling attack detection method based on SVM and target item analysis in recommender systems**, *Neurocomputing*, [📝Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231216306038)
 
 <a class="toc" id ="3"></a>
 
@@ -120,11 +131,14 @@
 + **Adversarial Machine Learning in Recommender Systems: State of the art and Challenges**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2005.10322)
 + **A Survey of Adversarial Learning on Graphs**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2003.05730)
 + **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2003.00653)
++ **Shilling attacks against collaborative recommender systems: a review**,  *Artificial Intelligence Review*, [📝Paper](https://link.springer.com/article/10.1007/s10462-018-9655-x)
 + **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**, *Arxiv2019*, [📝Paper](https://arxiv.org/abs/1909.08072)
++ **A Survey of Attacks in Collaborative Recommender Systems**, *Journal of Computational and Theoretical Nanoscience 2019*, [📝Paper](https://www.ingentaconnect.com/content/asp/jctn/2019/00000016/f0020005/art00029)
 + **Adversarial Attack and Defense on Graph Data: A Survey**, *Arxiv2018*, [📝Paper](https://arxiv.org/abs/1812.10528)
-
++ **Adversarial Machine Learning: The Case of Recommendation Systems**, *IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, [📝Paper](https://ieeexplore.ieee.org/abstract/document/8445767)
 
 <a class="toc" id ="4"></a>
+
 # Resource
 
 + **Awesome Graph Adversarial Learning** [:octocat:Link](https://github.com/gitgiter/Graph-Adversarial-Learning)
