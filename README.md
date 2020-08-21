@@ -2,7 +2,8 @@
 
 # Awesome Adversarial Learning on Recommender System (Updating)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![](https://img.shields.io/github/license/EdisonLeeeee/RS-Adversarial-Learning)
 
 ### 👉 Table of Contents 👈
 + [Attack](#1)
@@ -30,7 +31,7 @@
 ## 2020
 + **Data Poisoning Attacks on Neighborhood-based Recommender Systems**, *ETT*, [📝Paper](https://arxiv.org/abs/1912.04109)
 + **Attacking Black-box Recommendations via Copying Cross-domain User Profiles**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2005.08147)
-+ **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2006.07934)
++ **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**, *SIGIR*, [📝Paper](https://arxiv.org/abs/2006.07934)
 + **Adversarial Attacks on Linear Contextual Bandits**, *Arxiv*, [📝Paper](https://arxiv.org/pdf/2002.03839)
 + **Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2006.01888), [:octocat:Code](https://github.com/liuzrcc/AIP)
 + **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**, *WWW*, [📝Paper](https://arxiv.org/abs/2002.08025)
@@ -39,6 +40,7 @@
 + **Attacking Recommender Systems with Augmented User Profiles**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2005.08164)
 + **Practical Data Poisoning Attack against Next-Item Recommendation**, *WWW*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3379992)
 + **PoisonRec: An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems**, *ICDE*, [📝Paper](https://ieeexplore.ieee.org/abstract/document/9101655)
++ **Data Poisoning Attacks against Differentially Private Recommender Systems**, *SIGIR*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401301)
 
 
 
