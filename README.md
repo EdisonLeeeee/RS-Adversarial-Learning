@@ -88,6 +88,7 @@
 + **Certifiable Robustness to Discrete Adversarial Perturbations for Factorization Machines**, *SIGIR*, [📝Paper](http://jiyang3.web.engr.illinois.edu/files/fm-rt.pdf)
 + **Directional Adversarial Training for Recommender Systems**, *ECAI*, [📝Paper](http://ecai2020.eu/papers/300_paper.pdf)
 + **Shilling Attack Detection Scheme in Collaborative Filtering Recommendation System Based on Recurrent Neural Network**, *Future of Information and Communication Conference*, [📝Paper](https://link.springer.com/chapter/10.1007/978-3-030-39445-5_46)
++ **Learning Product Rankings Robust to Fake Users**， *Arxiv*, [📝Paper](https://arxiv.org/abs/2009.05138)
 
 <a class="toc" id ="2-2"></a>
 
