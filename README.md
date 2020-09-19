@@ -89,6 +89,7 @@
 + **Directional Adversarial Training for Recommender Systems**, *ECAI*, [📝Paper](http://ecai2020.eu/papers/300_paper.pdf)
 + **Shilling Attack Detection Scheme in Collaborative Filtering Recommendation System Based on Recurrent Neural Network**, *Future of Information and Communication Conference*, [📝Paper](https://link.springer.com/chapter/10.1007/978-3-030-39445-5_46)
 + **Learning Product Rankings Robust to Fake Users**， *Arxiv*, [📝Paper](https://arxiv.org/abs/2009.05138)
++ **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning**, *WSDM*, [📝Paper](https://arxiv.org/abs/1911.09872)
 
 <a class="toc" id ="2-2"></a>
 
@@ -99,7 +100,7 @@
 + **Adversarial tensor factorization for context-aware recommendation**, *RecSys*, [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3346987), [:octocat:Code]
 + **Adversarial Training-Based Mean Bayesian Personalized Ranking for Recommender System**, *IEEE Access*, [📝Paper](https://ieeexplore.ieee.org/document/8946325)
 + **Securing the Deep Fraud Detector in Large-Scale E-Commerce Platform via Adversarial Machine Learning Approach**，*WWW*, [📝Paper](https://www.ntu.edu.sg/home/boan/papers/WWW19.pdf)
-+ **Shilling Attack Detection in Recommender System Using PCA and SVM**, *Emerging technologies in data mining and information security*, [📝Paper]https://link.springer.com/chapter/10.1007/978-981-13-1498-8_55)
++ **Shilling Attack Detection in Recommender System Using PCA and SVM**, *Emerging technologies in data mining and information security*, [📝Paper](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_55)
 
 
 
@@ -110,7 +111,6 @@
 + **A shilling attack detector based on convolutional neural network for collaborative recommender system in social aware network**, *The Computer Journal*, [📝Paper](https://academic.oup.com/comjnl/article-abstract/61/7/949/4835634)
 + **Adversarial Sampling and Training for Semi-Supervised Information Retrieval**, *WWW*, [📝Paper](https://arxiv.org/abs/1506.05752)
 + **Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks**, *IEEE Transactions on Multimedia*, [📝Paper](https://ieeexplore.ieee.org/document/8576563)
-+ **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning**, *WSDM*, [📝Paper](https://arxiv.org/abs/1911.09872)
 + **An Obfuscated Attack Detection Approach for Collaborative Recommender Systems**, *Journal of computing and information technology*,  [📝Paper](https://hrcak.srce.hr/203982)
 
 <a class="toc" id ="2-4"></a>
@@ -124,7 +124,7 @@
 ## 2016
 + **Discovering shilling groups in a real e-commerce platform**, *Online Information Review*, [📝Paper](https://www.emerald.com/insight/content/doi/10.1108/OIR-03-2015-0073/full/html)
 + **Shilling attack detection in collaborative filtering recommender system by PCA detection and perturbation**, *International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR)*, [📝Paper](https://ieeexplore.ieee.org/document/7731644)
-+ **Re-scale AdaBoost for attack detection in collaborative filtering recommender systems**, *KBS*, [[📝Paper](https://www.sciencedirect.com/science/article/pii/S0950705116000861)
++ **Re-scale AdaBoost for attack detection in collaborative filtering recommender systems**, *KBS*, [📝Paper](https://www.sciencedirect.com/science/article/pii/S0950705116000861)
 + **SVM-TIA a shilling attack detection method based on SVM and target item analysis in recommender systems**, *Neurocomputing*, [📝Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231216306038)
 
 <a class="toc" id ="3"></a>
