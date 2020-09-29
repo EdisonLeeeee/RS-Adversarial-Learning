@@ -41,6 +41,7 @@
 + **Practical Data Poisoning Attack against Next-Item Recommendation**, *WWW*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3379992)
 + **PoisonRec: An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems**, *ICDE*, [📝Paper](https://ieeexplore.ieee.org/abstract/document/9101655)
 + **Data Poisoning Attacks against Differentially Private Recommender Systems**, *SIGIR*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401301)
++ **Revisiting Adversarially Learned Injection Attacks Against Recommender Systems**, *RecSys*,  [📝Paper](https://arxiv.org/abs/2008.04876)
 
 
 
@@ -52,6 +53,7 @@
 + **Data Poisoning Attacks on Graph Convolutional Matrix Completion**，*International Conference on Algorithms and Architectures for Parallel Processing*,  [📝Paper](https://link.springer.com/chapter/10.1007/978-3-030-38961-1_38)
 + **Data Poisoning Attacks on Stochastic Bandits**, *ICML*,  [📝Paper](https://arxiv.org/abs/1905.06494)
 + **Data Poisoning Attacks on Cross-domain Recommendation**, *CIKM*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3357384.3358116)
++ **Assessing the Impact of a User-Item Collaborative Attack on Class of Users**, *RecSys Workshop*, 📝[Paper](https://arxiv.org/abs/1908.07968)
 
 
 
@@ -90,6 +92,9 @@
 + **Shilling Attack Detection Scheme in Collaborative Filtering Recommendation System Based on Recurrent Neural Network**, *Future of Information and Communication Conference*, [📝Paper](https://link.springer.com/chapter/10.1007/978-3-030-39445-5_46)
 + **Learning Product Rankings Robust to Fake Users**， *Arxiv*, [📝Paper](https://arxiv.org/abs/2009.05138)
 + **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning**, *WSDM*, [📝Paper](https://arxiv.org/abs/1911.09872)
++ **Quick and accurate attack detection in recommender systems through user attributes**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3347050)
+
+
 
 <a class="toc" id ="2-2"></a>
 
@@ -139,6 +144,8 @@
 + **A Survey of Attacks in Collaborative Recommender Systems**, *Journal of Computational and Theoretical Nanoscience 2019*, [📝Paper](https://www.ingentaconnect.com/content/asp/jctn/2019/00000016/f0020005/art00029)
 + **Adversarial Attack and Defense on Graph Data: A Survey**, *Arxiv2018*, [📝Paper](https://arxiv.org/abs/1812.10528)
 + **Adversarial Machine Learning: The Case of Recommendation Systems**, *IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, [📝Paper](https://ieeexplore.ieee.org/abstract/document/8445767)
++ **Recommender Systems: Attack Types and Strategies**, *AAAI*2005, 📝[Paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-053.pdf)
++ **A Review of Attacks and Its Detection Attributes on Collaborative Recommender Systems**, *IJARCS2017*, 📝[Paper](http://www.ijarcs.info/index.php/Ijarcs/article/download/4550/4100)
 
 <a class="toc" id ="4"></a>
 
@@ -148,3 +155,9 @@
 + **Awesome Graph Attack and Defense Papers** [:octocat:Link](https://github.com/ChandlerBang/awesome-graph-attack-papers)
 + **Graph Adversarial Learning Literature** [:octocat:Link](https://github.com/safe-graph/graph-adversarial-learning-literature)
 + **A Complete List of All (arXiv) Adversarial Example Papers** [🌐Link](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
++ **Robust Matrix Completion via Robust Gradient Descent** 🌐[Link](https://www.andrew.cmu.edu/user/andrewsi/)
+
+# Slides
+
++ **UCI Lecture** 🌐[Link](https://www.math.uci.edu/~icamp/courses/math77b/lecture_12w/)
+
