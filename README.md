@@ -93,6 +93,8 @@
 + **Learning Product Rankings Robust to Fake Users**， *Arxiv*, [📝Paper](https://arxiv.org/abs/2009.05138)
 + **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning**, *WSDM*, [📝Paper](https://arxiv.org/abs/1911.09872)
 + **Quick and accurate attack detection in recommender systems through user attributes**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3347050)
++ **Global and Local Differential Privacy for Collaborative Bandits**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254)
++ **Towards Safety and Sustainability: Designing Local Recommendations for Post-pandemic World**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/pdf/10.1145/3383313.3412251)
 
 
 
