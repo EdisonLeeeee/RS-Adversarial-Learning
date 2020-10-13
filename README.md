@@ -158,8 +158,10 @@
 + **Graph Adversarial Learning Literature** [:octocat:Link](https://github.com/safe-graph/graph-adversarial-learning-literature)
 + **A Complete List of All (arXiv) Adversarial Example Papers** [🌐Link](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
 + **Robust Matrix Completion via Robust Gradient Descent** 🌐[Link](https://www.andrew.cmu.edu/user/andrewsi/)
++ **Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions **  [:octocat:Link](https://github.com/sisinflab/adversarial-recommender-systems-survey)
 
 # Slides
 
 + **UCI Lecture** 🌐[Link](https://www.math.uci.edu/~icamp/courses/math77b/lecture_12w/)
++ **RecSys2020 Tutorial**  [:octocat:Link](https://github.com/sisinflab/amlrecsys-tutorial)
 
