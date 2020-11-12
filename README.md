@@ -1,4 +1,3 @@
-<a class="toc" id="table-of-contents"></a>
 
 # Awesome Adversarial Learning on Recommender System (Updating)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,27 +5,30 @@
 ![](https://img.shields.io/github/license/EdisonLeeeee/RS-Adversarial-Learning)
 
 ### 👉 Table of Contents 👈
-+ [Attack](#1)
-	+ [2020](#1-1)
-	+ [2019](#1-2)
-	+ [2018](#1-3)
-	+ [2017](#1-4)
-	+ [2016](#1-5)
-+ [Defense](#2)
-	+ [2020](#2-1)
-	+ [2019](#2-2)
-	+ [2018](#2-3)
-	+ [2017](#2-4)
-	+ [2016](#2-5)
-+ [Survey](#3)
-+ [Resource](#4)
+- [Attack](#attack)
+	- [2021](#2021)
+	- [2020](#2020)
+	- [2019](#2019)
+	- [2018](#2018)
+	- [2017](#2017)
+	- [2016](#2016)
+- [Defense](#defense)
+	- [2021](#2021-1)
+	- [2020](#2020-1)
+	- [2019](#2019-1)
+	- [2018](#2018-1)
+	- [2017](#2017-1)
+	- [2016](#2016-1)
+- [Survey](#survey)
+- [Resource](#resource)
+- [Slides](#slides)
 
-
-<a class="toc" id ="1"></a>
 
 # Attack
 
-<a class="toc" id ="1-1"></a>
+## 2021
++ **A Black-Box Attack Model for Visually-Aware Recommender Systems**, *WSDM*, [📝Paper](https://arxiv.org/abs/2011.02701)
+
 
 ## 2020
 + **Data Poisoning Attacks on Neighborhood-based Recommender Systems**, *ETT*, [📝Paper](https://arxiv.org/abs/1912.04109)
@@ -45,7 +47,6 @@
 
 
 
-<a class="toc" id ="1-2"></a>
 
 ## 2019
 + **Adversarial Attacks on an Oblivious Recommender**, *RecSys*, [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3347031)
@@ -57,18 +58,15 @@
 
 
 
-<a class="toc" id ="1-3"></a>
 
 ## 2018
 + **Poisoning attacks to graph-based recommender systems**, *Annual Computer Security Applications Conference (ACSAC)*, [📝Paper](https://arxiv.org/abs/1809.04127), [:octocat:Code](https://github.com/alanefl/graph-based-recommender-attacks)
 
 
-<a class="toc" id ="1-4"></a>
 
 ## 2017
 + **Fake Co-visitation Injection Attacks to Recommender Systems**, *NDSS*, [📝Paper](http://people.duke.edu/~zg70/papers/ndss17-attackRS.pdf)
 + **Hybrid attacks on model-based social recommender systems**, *Physica A: Statistical Mechanics and its Applications*, [📝Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437117303436)
-<a class="toc" id ="1-5"></a>
 
 ## 2016
 + **Data Poisoning Attacks on Factorization-Based Collaborative Filtering**, *NIPS*, [📝Paper](https://arxiv.org/abs/1608.08182), [:octocat:Code](https://github.com/fuying-wang/Data-poisoning-attacks-on-factorization-based-collaborative-filtering)
@@ -76,11 +74,10 @@
 + **Shilling attack models in recommender system**, *International Conference on Inventive Computation Technologies (ICICT)*, [📝Paper](https://ieeexplore.ieee.org/document/7824865)
 
 
-<a class="toc" id ="2"></a>
 
 # Defense
 
-<a class="toc" id ="2-1"></a>
+## 2021
 
 ## 2020
 + **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2004.14734)
@@ -98,7 +95,6 @@
 
 
 
-<a class="toc" id ="2-2"></a>
 
 ## 2019
 + **Adversarial Training Towards Robust Multimedia Recommender System**, *TKDE*, [📝Paper](https://graphreason.github.io/papers/35.pdf), [:octocat:Code](https://github.com/duxy-me/AMR)
@@ -111,7 +107,6 @@
 
 
 
-<a class="toc" id ="2-3"></a>
 
 ## 2018
 + **Adversarial Personalized Ranking for Recommendation**, *SIGIR*, [📝Paper](https://dl.acm.org/citation.cfm?id=3209981),  [:octocat:Code](https://github.com/hexiangnan/adversarial_personalized_ranking)
@@ -120,13 +115,11 @@
 + **Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks**, *IEEE Transactions on Multimedia*, [📝Paper](https://ieeexplore.ieee.org/document/8576563)
 + **An Obfuscated Attack Detection Approach for Collaborative Recommender Systems**, *Journal of computing and information technology*,  [📝Paper](https://hrcak.srce.hr/203982)
 
-<a class="toc" id ="2-4"></a>
 
 ## 2017
 + **Detecting Abnormal Profiles in Collaborative Filtering Recommender Systems**, *Journal of Intelligent Information Systems*, [📝Paper](https://link.springer.com/article/10.1007/s10844-016-0424-5)
 + **Detection of Proﬁle Injection Attacks in Social Recommender Systems Using Outlier Analysis**, *IEEE Big Data*, [📝Paper](http://www.cs.ucf.edu/~anahita/08258235.pdf)
 + **Prevention of shilling attack in recommender systems using discrete wavelet transform and support vector machine**, *Eighth International Conference on Advanced Computing (ICoAC)*, [📝Paper](https://ieeexplore.ieee.org/document/7951753)
-<a class="toc" id ="2-5"></a>
 
 ## 2016
 + **Discovering shilling groups in a real e-commerce platform**, *Online Information Review*, [📝Paper](https://www.emerald.com/insight/content/doi/10.1108/OIR-03-2015-0073/full/html)
@@ -134,7 +127,6 @@
 + **Re-scale AdaBoost for attack detection in collaborative filtering recommender systems**, *KBS*, [📝Paper](https://www.sciencedirect.com/science/article/pii/S0950705116000861)
 + **SVM-TIA a shilling attack detection method based on SVM and target item analysis in recommender systems**, *Neurocomputing*, [📝Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231216306038)
 
-<a class="toc" id ="3"></a>
 
 # Survey
 
@@ -149,7 +141,6 @@
 + **Recommender Systems: Attack Types and Strategies**, *AAAI*2005, 📝[Paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-053.pdf)
 + **A Review of Attacks and Its Detection Attributes on Collaborative Recommender Systems**, *IJARCS2017*, 📝[Paper](http://www.ijarcs.info/index.php/Ijarcs/article/download/4550/4100)
 
-<a class="toc" id ="4"></a>
 
 # Resource
 
