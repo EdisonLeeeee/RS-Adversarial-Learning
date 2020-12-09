@@ -48,6 +48,7 @@
 
 
 
+
 ## 2019
 + **Adversarial Attacks on an Oblivious Recommender**, *RecSys*, [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3347031)
 + **Targeted Poisoning Attacks on Social Recommender Systems**, *IEEE Global Communications Conference (GLOBECOM)*, [📝Paper](https://ieeexplore.ieee.org/document/9013539)
@@ -80,6 +81,8 @@
 ## 2021
 
 ## 2020
++ **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**, *Arxiv*,  [📝Paper](https://arxiv.org/abs/2005.10150)
++ **On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs**, *ICML*,  [📝Paper](https://arxiv.org/abs/2012.02509)
 + **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2004.14734)
 + **Adversarial Collaborative Auto-encoder for Top-N Recommendation**, *Arxiv*, [📝Paper](https://arxiv.org/abs/1808.05361)
 + **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**, *Arxiv*, [📝Paper](https://arxiv.org/abs/2006.07934)
@@ -92,6 +95,7 @@
 + **Quick and accurate attack detection in recommender systems through user attributes**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/10.1145/3298689.3347050)
 + **Global and Local Differential Privacy for Collaborative Bandits**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254)
 + **Towards Safety and Sustainability: Designing Local Recommendations for Post-pandemic World**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/pdf/10.1145/3383313.3412251)
++ **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**, *RecSys*,  [📝Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401165)
 
 
 
