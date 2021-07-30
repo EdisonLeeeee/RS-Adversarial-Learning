@@ -28,6 +28,7 @@
 
 ## 2021
 + **A Black-Box Attack Model for Visually-Aware Recommender Systems**, *WSDM*, [📝Paper](https://arxiv.org/abs/2011.02701)
++ **Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack**, *Information Sciences*, [📝Paper](https://arxiv.org/abs/2107.10457)
 
 
 ## 2020
@@ -79,6 +80,9 @@
 # Defense
 
 ## 2021
+
++ **Graph Embedding for Recommendation against Attribute Inference Attacks**, *WWW*,  [📝Paper](https://arxiv.org/pdf/2101.12549.pdf)
++ **Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality**, *Arxiv*, 📝[Paper](https://arxiv.org/abs/2107.13876)
 
 ## 2020
 + **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**, *Arxiv*,  [📝Paper](https://arxiv.org/abs/2005.10150)
