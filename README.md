@@ -29,6 +29,8 @@
 ## 2021
 + **A Black-Box Attack Model for Visually-Aware Recommender Systems**, *WSDM*, [📝Paper](https://arxiv.org/abs/2011.02701)
 + **Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack**, *Information Sciences*, [📝Paper](https://arxiv.org/abs/2107.10457)
++ **Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data**, *KDD*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467233)
++ **Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems**, *KDD*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467335)
 
 
 ## 2020
