@@ -5,6 +5,8 @@
 ![](https://img.shields.io/github/license/EdisonLeeeee/RS-Adversarial-Learning)
 
 ### 👉 Table of Contents 👈
+- [Awesome Adversarial Learning on Recommender System (Updating)](#awesome-adversarial-learning-on-recommender-system-updating)
+		- [👉 Table of Contents 👈](#-table-of-contents-)
 - [Attack](#attack)
 	- [2021](#2021)
 	- [2020](#2020)
@@ -31,6 +33,8 @@
 + **Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack**, *Information Sciences*, [📝Paper](https://arxiv.org/abs/2107.10457)
 + **Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data**, *KDD*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467233)
 + **Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems**, *KDD*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467335)
++ **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction**, *RecSys*,  [📝Paper](https://arxiv.org/abs/2109.01165)
++ **Membership Inference Attacks Against Recommender Systems**, *Arxiv*,  [📝Paper](https://arxiv.org/abs/2109.08045)
 
 
 ## 2020
