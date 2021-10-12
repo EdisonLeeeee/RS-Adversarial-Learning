@@ -144,6 +144,7 @@
 
 # Survey
 
++ **A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks**, *ACM Computing Surveys (CSUR) 2021*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3439729)
 + **Adversarial Machine Learning in Recommender Systems: State of the art and Challenges**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2005.10322)
 + **A Survey of Adversarial Learning on Graphs**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2003.05730)
 + **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study**, *Arxiv2020*, [📝Paper](https://arxiv.org/abs/2003.00653)
