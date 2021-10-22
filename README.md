@@ -6,8 +6,9 @@
 
 ### 👉 Table of Contents 👈
 - [Awesome Adversarial Learning on Recommender System (Updating)](#awesome-adversarial-learning-on-recommender-system-updating)
-		- [👉 Table of Contents 👈](#-table-of-contents-)
+- [👉 Table of Contents 👈](#-table-of-contents-)
 - [Attack](#attack)
+	- [2022](#2022)
 	- [2021](#2021)
 	- [2020](#2020)
 	- [2019](#2019)
@@ -28,6 +29,9 @@
 
 # Attack
 
+## 2022
++ **PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion**, *WSDM*,  [📝Paper](https://arxiv.org/abs/2110.10926)
+
 ## 2021
 + **A Black-Box Attack Model for Visually-Aware Recommender Systems**, *WSDM*, [📝Paper](https://arxiv.org/abs/2011.02701)
 + **Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack**, *Information Sciences*, [📝Paper](https://arxiv.org/abs/2107.10457)
@@ -35,7 +39,7 @@
 + **Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems**, *KDD*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467335)
 + **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction**, *RecSys*,  [📝Paper](https://arxiv.org/abs/2109.01165)
 + **Membership Inference Attacks Against Recommender Systems**, *Arxiv*,  [📝Paper](https://arxiv.org/abs/2109.08045)
-+ **PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion **, *WSDM*,  [📝Paper](https://arxiv.org/abs/2110.10926)
+
 
 ## 2020
 + **Data Poisoning Attacks on Neighborhood-based Recommender Systems**, *ETT*, [📝Paper](https://arxiv.org/abs/1912.04109)
