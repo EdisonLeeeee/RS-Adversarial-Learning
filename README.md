@@ -31,6 +31,7 @@
 
 ## 2022
 + **PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion**, *WSDM*,  [📝Paper](https://arxiv.org/abs/2110.10926)
++ **Targeted Data Poisoning Attack on News Recommendation System**， *Arxiv*, [📝Paper](https://arxiv.org/abs/2203.03560)
 
 ## 2021
 + **A Black-Box Attack Model for Visually-Aware Recommender Systems**, *WSDM*, [📝Paper](https://arxiv.org/abs/2011.02701)
